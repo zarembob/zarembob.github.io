@@ -2,4 +2,4 @@
 
 My homeworks
 
-[Wow](zarembob.Github.io/Site1 "Мой сайт")
+[Wow](zarembob.github.io "Мой сайт")

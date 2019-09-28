@@ -6,4 +6,4 @@ My homeworks
 
 [Wow1](zarembob.github.io/Site/ "Мой first сайт")
 
-[Wow1](zarembob.github.io/Site2/ "Мой first сайт")
+[Wow2](zarembob.github.io/Site2/ "Мой first сайт")
